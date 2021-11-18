@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+a {
+  display: block;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+footer {
+  text-align: right;
+}
+
+footer p {
+  color: gray;
+}
+
+p {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p.title {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+p.explanation {
+  font-size: 21px;
+  color: gray;
+}
+
+img {
+  margin: 10px;
+}
