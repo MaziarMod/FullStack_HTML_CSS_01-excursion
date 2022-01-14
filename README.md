@@ -1,7 +1,6 @@
 ## JS_book-keeper
 Project:
 
-- JavaScript
 - HTML & CSS
 
 URL:
